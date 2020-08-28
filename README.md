@@ -1,1 +1,1 @@
-# DSC-SIST-CORE-RECRUIT
+### A simple website made for the students to apply for core team in Developer Students Clubs - Sathyabama Institute of Science and Technology 
